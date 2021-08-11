@@ -410,4 +410,15 @@ a{
     color: #0F6E6f;
 }
 
+.arrow {
+    position: fixed;
+    top: 550px;
+    right: 50px;
+    font-size: 40px;
+}
+
+.arrow a{
+    color: darkcyan;
+}
+
 /*===============End of CSS=========*/
